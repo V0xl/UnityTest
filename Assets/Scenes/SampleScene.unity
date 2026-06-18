@@ -179,7 +179,7 @@ GameObject:
   - component: {fileID: 110201252}
   - component: {fileID: 110201251}
   m_Layer: 0
-  m_Name: Bird (6)
+  m_Name: "\u03C4\u03C1\u03B9\u03B3\u03C9\u03BD\u03B7 (6)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -571,7 +571,7 @@ GameObject:
   - component: {fileID: 1031359640}
   - component: {fileID: 1031359639}
   m_Layer: 0
-  m_Name: Bird (2)
+  m_Name: "\u03C4\u03C1\u03B9\u03B3\u03C9\u03BD\u03B7 (2)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -742,7 +742,7 @@ GameObject:
   - component: {fileID: 1189773740}
   - component: {fileID: 1189773739}
   m_Layer: 0
-  m_Name: Bird (5)
+  m_Name: "\u03C4\u03C1\u03B9\u03B3\u03C9\u03BD\u03B7 (5)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -913,7 +913,7 @@ GameObject:
   - component: {fileID: 1211708503}
   - component: {fileID: 1211708502}
   m_Layer: 0
-  m_Name: Bird (1)
+  m_Name: "\u03C4\u03C1\u03B9\u03B3\u03C9\u03BD\u03B7 (1)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1084,7 +1084,7 @@ GameObject:
   - component: {fileID: 1420305441}
   - component: {fileID: 1420305440}
   m_Layer: 0
-  m_Name: Bird (3)
+  m_Name: "\u03C4\u03C1\u03B9\u03B3\u03C9\u03BD\u03B7 (3)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1255,7 +1255,7 @@ GameObject:
   - component: {fileID: 1476974315}
   - component: {fileID: 1476974314}
   m_Layer: 0
-  m_Name: Bird (4)
+  m_Name: "\u03C4\u03C1\u03B9\u03B3\u03C9\u03BD\u03B7(4)"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1426,7 +1426,7 @@ GameObject:
   - component: {fileID: 2001550110}
   - component: {fileID: 2001550109}
   m_Layer: 0
-  m_Name: Bird
+  m_Name: "\u03C4\u03C1\u03B9\u03B3\u03C9\u03BD\u03B7"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
